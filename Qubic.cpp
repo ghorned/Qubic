@@ -1,15 +1,7 @@
-/**
- * Qubic : 3D Tic-Tac-Toe Game
- * GHorned
- * 
- * This program creates an interface for 3D tic tac toe (4x4x4)
- * and implements an AI bot for the user to play against
- */
-
-
 #include <iostream>
 #include <ctime>
 #include <cmath>
+#include <climits>
 
 
 char cube[4][4][4] = {};
